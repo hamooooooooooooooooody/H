@@ -1,0 +1,2 @@
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-02-15T15:37:44.012Z"}
+{"err":{"code":"ENOTDIR","errno":-4052,"path":"./SlashCommands/play.js","syscall":"scandir"},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-02-15T15:55:23.475Z"}
